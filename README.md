@@ -68,9 +68,5 @@ I'm **Divyansh Mourya** – a fast‑learning tech enthusiast combining programm
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).  
-Feel free to use and adapt it for your own portfolio.
-
----
 
 **Made with ❤️ by Divyansh Mourya**
-```
